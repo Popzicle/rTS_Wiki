@@ -6,10 +6,8 @@ sidebar:
 has_children: false
 parent: Backups
 pagefind: true
-last_modified_date: 2022-06-16
+last_modified_date: 2025-10-27
 ---
-
-
 
 ## I have no backups.
 Most people do not have any form of backup for their data. Many people do not see this as a necessity. This book covers:
@@ -38,7 +36,6 @@ We have seen all of these, and many more, come through the subreddit or our live
 Some are lucky enough to be able to recover themselves, others have to spend hundreds or thousands of dollars for a professional to handle it.
 
 ## How do I get started with backups?
-
 Hopefully, you are interested in creating a backup plan now. If so keep reading as backups are not simply drag-dropping your files once and forgetting about them. It is an ongoing process that requires at least a little bit of planning.
 
 [Creating a backup process](/backups/creating-backups)

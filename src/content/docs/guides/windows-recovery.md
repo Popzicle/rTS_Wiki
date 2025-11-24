@@ -35,7 +35,7 @@ Windows Recovery is a built-in feature in Microsoft Windows operating systems th
 ## Windows Recovery Options
 > **Warning:** Windows Recovery options are powerful tools designed to troubleshoot and resolve various system issues. However, they may not always guarantee a fix, and results can vary based on the nature and severity of the problem. If you encounter persistent or critical issues that remain unresolved after using these recovery options, it might be necessary to consider a clean install of the operating system.
 
-> Performing a clean install involves reinstalling the operating system, which will erase all data on the system drive. Ensure you have a backup of your important data before proceeding with a [clean install](/windows) 
+> Performing a clean install involves reinstalling the operating system, which will erase all data on the system drive. Ensure you have a backup of your important data before proceeding with a [clean install](/installations/install-11) 
 A
 > Always exercise caution when making significant changes to your system, and consider the potential impact on your data. Always have a [Backup](/backups)
 
@@ -76,10 +76,10 @@ A
 
 ### 4. Go Back to the Previous Version
 
-- **Purpose:** Reverts to the previous version of Windows 10 (available after an upgrade).
+- **Purpose:** Reverts to the previous version of Windows 11 (available after an upgrade).
 - **How to use:** 
   - Access Windows Recovery.
-  - Navigate to "Go back to the previous version of Windows 10" in the "Recovery" section.
+  - Navigate to "Go back to the previous version of Windows 11" in the "Recovery" section.
   - Follow on-screen instructions to revert to the previous Windows version.
 - **When to use:** 
   - If you recently upgraded and experience compatibility issues or system instability.

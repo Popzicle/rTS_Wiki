@@ -16,9 +16,9 @@ Operating systems and software have a maximum date of support (End of Life/EOL),
 ## Upgrading to a supported OS
 This is the only option that guarantees you can keep using all of the latest software, as a lot of it also cuts support for older OS releases.
 
-There is still some choices you can make of which version and edition of Windows you want. Windows 10 and 11 have various editions, the most common being Home and Pro. Home is the way to go for most users, as Pro just adds a few features that you probably wouldn't notice or ever use. A list of all differences can be found [here](https://en.wikipedia.org/wiki/Windows_10_editions#Comparison_chart).
+There is still some choices you can make of which version and edition of Windows you want. Windows 11 have various editions, the most common being Home and Pro. Home is the way to go for most users, as Pro just adds a few features that you probably wouldn't notice or ever use. A list of all differences can be found [here](https://en.wikipedia.org/wiki/Windows_11_editions).
 
-If you are in school, you should see if you are eligible for a license for Windows Education. If not, see if you have a way to obtain a Windows 10 Home license. If not, you can very likely upgrade your Windows 7 or 8.1 installation for free. If none of those options work for you, and you need to pay for a new license, the Home version is preferable.
+If you are in school, you should see if you are eligible for a license for Windows Education. If not, see if you have a way to obtain a Windows 11 Home license. If not, you can very likely upgrade your Windows 10 installation for free. If none of those options work for you, and you need to pay for a new license, the Home version is preferable.
 
 Windows used to perform two annual updates before 2022, named accordingly `2xHx`, with `2x` being replaced with current year and H standing for first or second half For example 20H2 (Second half of 2020) and 21H1 (First half of 2021), but since 2022, `2xh1` (first half-year) will not be released anymore, with only `2xH2` (second half-year) versions coming out instead. It is always recommended to be on the latest version as it has the most security patches, and therefore is the safest. This is a list of the most popular Windows versions that are still **supported** at the time of writing this article.
 
@@ -38,7 +38,7 @@ Windows used to perform two annual updates before 2022, named accordingly `2xHx`
 
 For versions not listed here, check out the lifecycle information from Microsoft: [Windows 8.1](https://docs.microsoft.com/en-us/lifecycle/products/windows-81), [Windows 10](https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro), [Windows 11](https://docs.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro-version-21h2)
 
-If you need help installing a newer version of Windows, check out [our guide](/windows).
+If you need help installing a newer version of Windows, check out [our guide](/installations/install-11).
 ## Switch to a Linux distro
 
 These days, Linux distros are truly a great alternative to Windows. Linux is very stable and secure, and does everything an average user wants, whether that be Facebook or writing essays. If you are a gamer, Linux has thousands of native games and many more are available via Steam's [ProtonDB](https://www.protondb.com/). Proton's support is getting expanded daily, Battleye and EAC support has been released  recently, meaning you will soon be able to play almost all of the current AAA games natively. However, you can play the majority of games on Steam on Linux with no hassle by just switching on the Proton compatibility layer.

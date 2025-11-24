@@ -6,25 +6,21 @@ sidebar:
 has_children: false
 parent: Backups
 pagefind: true
-last_modified_date: 2022-06-16
+last_modified_date: 2025-10-27
 ---
 
 ## The 3-2-1 Rule
-
 The basis of all backup plans revolves around the 3-2-1 rule.
 
 That means 3 copies of your data, consisting of:
 * 2 of the copies are on different devices on-site
 * 1 copy is 'off-site'
 
-In a perfect world, this would mean that your `Thesis.docx` exists on your computer, on another computer or external backup drive, 
-and on a cloud drive (Google Drive, OneDrive etc). How far you want to go with this rule is part of your planning.
+In a perfect world, this would mean that your `Thesis.docx` exists on your computer, on another computer or external backup drive, and on a cloud drive (Google Drive, OneDrive etc). How far you want to go with this rule is part of your planning.
 
-Of course, it is always possible that your house will burn down, your off-site copy will stop working, and you'll be left out of luck,
-but that is very unlikely. The 3-2-1 rule covers drives dying and accidental deletion, which covers the majority of cases.
+Of course, it is always possible that your house will burn down, your off-site copy will stop working, and you'll be left out of luck, but that is very unlikely. The 3-2-1 rule covers drives dying and accidental deletion, which covers the majority of cases.
 
 ## Create a plan
-
 ### What needs to be backed up?
 Go back to the [previous page](/backups/everyone-needs-backups) to see the scary list of things that people have lost over the years, and think about what you have that you care about.
 
